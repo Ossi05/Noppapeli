@@ -1,6 +1,6 @@
 import random
 
-def noppa(tulos):
+def noppa_lista():
     nopat = {
     1: (
         "┌─────────┐",
@@ -49,7 +49,7 @@ def noppa(tulos):
     return nopat
 
 
-def luvut(montako):
+def heittojen_tulos(montako):
     #Random numerot listaan
     numerot = []
 
@@ -86,11 +86,11 @@ def main():
         elif montako in range(1, 7):
 
             #Heittojen tulokset
-            tulos = luvut(montako)
+            tulos = heittojen_tulos(montako)
 
             #Palauttaa noppa listan
-            nopat = noppa(tulos)
-            
+            nopat = noppa_lista()
+
             tulostus(tulos, nopat)
 
         else:
