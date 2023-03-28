@@ -2,4 +2,5 @@
 Noppapeli Pythonissa
 
 
-![image](https://user-images.githubusercontent.com/77546709/228157555-940f0670-b983-4091-a9de-9288994630d5.png)
+![image](https://user-images.githubusercontent.com/77546709/228157709-e7c17d2d-0a02-4ee8-bfaa-d119fa26ef00.png)
+
